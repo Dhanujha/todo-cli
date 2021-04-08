@@ -1,0 +1,11 @@
+{
+    "name": "todo-cli",
+    "version": "1.0.0",
+    "description": "A cli app to manage todos",
+    "main": "todo.js",
+    "author": "Dhanujha R",
+    "license": "MIT",
+    "bin": {
+        "todo": "./todo.sh"
+    }
+}
